@@ -16,6 +16,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     int quantity = 0;
+    //jumlah cofee
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
